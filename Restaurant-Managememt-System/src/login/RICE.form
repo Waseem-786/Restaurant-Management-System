@@ -373,21 +373,21 @@
     <Component class="javax.swing.JLabel" name="jLabel7">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Daal Rice.png"/>
+          <Image iconType="3" name="/login/Images/Rice/Daal Rice.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel8">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Channa Rice.png"/>
+          <Image iconType="3" name="/login/Images/Rice/Channa Rice.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel9">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Chicken Rice.png"/>
+          <Image iconType="3" name="/login/Images/Rice/Chicken Rice.png"/>
         </Property>
       </Properties>
     </Component>
@@ -401,11 +401,16 @@
     <Component class="javax.swing.JLabel" name="jLabel11">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Chinese Rice.png"/>
+          <Image iconType="3" name="/login/Images/Rice/Chinese Rice.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/login/Images/Rice/Briyani.jpg"/>
+        </Property>
+      </Properties>
     </Component>
     <Container class="javax.swing.JPanel" name="Daal_Chawal_Pannel">
       <Properties>

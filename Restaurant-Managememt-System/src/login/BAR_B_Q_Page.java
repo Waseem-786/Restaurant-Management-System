@@ -313,25 +313,25 @@ public class BAR_B_Q_Page extends javax.swing.JFrame {
         });
         jScrollPane3.setViewportView(jTable1);
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Seekh Kabab.png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Seekh Kabab.png"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Behari Kabab.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Behari Kabab.png"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Malai Boti.png"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Malai Boti.png"))); // NOI18N
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Tikka.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Chicken Tikka.png"))); // NOI18N
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Chest Piece.png"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Chicken Chest Piece.png"))); // NOI18N
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Boti.png"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Chicken Boti.png"))); // NOI18N
 
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Gola Kabab.png"))); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Gola Kabab.png"))); // NOI18N
 
-        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Reshmi Kabab.png"))); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Reshmi Kabab.png"))); // NOI18N
 
-        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Vegetable Seekh Kabab.png"))); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Vegetable Seekh Kabab.png"))); // NOI18N
 
-        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Mutton Boti.png"))); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/BBQ/Mutton Boti.png"))); // NOI18N
 
         Seekh_Kabab_Pannel.setBackground(new java.awt.Color(204, 204, 0));
         Seekh_Kabab_Pannel.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -547,7 +547,7 @@ public class BAR_B_Q_Page extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(204, 0, 0));
         jLabel2.setText("Rs.");
         jPanel3.add(jLabel2);
-        jLabel2.setBounds(350, 90, 34, 30);
+        jLabel2.setBounds(350, 90, 33, 30);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
@@ -590,7 +590,7 @@ public class BAR_B_Q_Page extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(204, 0, 0));
         jLabel4.setText("Rs.");
         jPanel3.add(jLabel4);
-        jLabel4.setBounds(350, 130, 34, 32);
+        jLabel4.setBounds(350, 130, 33, 32);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(204, 0, 0));
@@ -619,7 +619,7 @@ public class BAR_B_Q_Page extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(204, 0, 0));
         jLabel6.setText("Rs.");
         jPanel3.add(jLabel6);
-        jLabel6.setBounds(350, 50, 34, 30);
+        jLabel6.setBounds(350, 50, 33, 30);
 
         jButton2.setBackground(new java.awt.Color(153, 255, 153));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N

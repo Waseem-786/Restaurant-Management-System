@@ -324,17 +324,17 @@ public class RICE extends javax.swing.JFrame {
         });
         jScrollPane3.setViewportView(jTable1);
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Daal Rice.png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Rice/Daal Rice.png"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Channa Rice.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Rice/Channa Rice.png"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Rice.png"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Rice/Chicken Rice.png"))); // NOI18N
 
         jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Vegetable Pulao.png"))); // NOI18N
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chinese Rice.png"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Rice/Chinese Rice.png"))); // NOI18N
 
-        jLabel12.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Rice\\Briyani.jpg")); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Rice/Briyani.jpg"))); // NOI18N
 
         Daal_Chawal_Pannel.setBackground(new java.awt.Color(204, 204, 0));
         Daal_Chawal_Pannel.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -469,7 +469,7 @@ public class RICE extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(204, 0, 0));
         jLabel2.setText("Rs.");
         jPanel3.add(jLabel2);
-        jLabel2.setBounds(350, 90, 34, 30);
+        jLabel2.setBounds(350, 90, 33, 30);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
@@ -512,7 +512,7 @@ public class RICE extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(204, 0, 0));
         jLabel4.setText("Rs.");
         jPanel3.add(jLabel4);
-        jLabel4.setBounds(350, 130, 34, 32);
+        jLabel4.setBounds(350, 130, 33, 32);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(204, 0, 0));
@@ -541,7 +541,7 @@ public class RICE extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(204, 0, 0));
         jLabel6.setText("Rs.");
         jPanel3.add(jLabel6);
-        jLabel6.setBounds(350, 50, 34, 30);
+        jLabel6.setBounds(350, 50, 33, 30);
 
         jButton2.setBackground(new java.awt.Color(153, 255, 153));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N

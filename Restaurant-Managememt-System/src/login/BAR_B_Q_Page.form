@@ -415,70 +415,70 @@
     <Component class="javax.swing.JLabel" name="jLabel7">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Seekh Kabab.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Seekh Kabab.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel8">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Behari Kabab.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Behari Kabab.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel9">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Malai Boti.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Malai Boti.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel10">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Chicken Tikka.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Chicken Tikka.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel11">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Chicken Chest Piece.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Chicken Chest Piece.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel12">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Chicken Boti.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Chicken Boti.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel13">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Gola Kabab.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Gola Kabab.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel14">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Reshmi Kabab.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Reshmi Kabab.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel15">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Vegetable Seekh Kabab.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Vegetable Seekh Kabab.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel16">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Mutton Boti.png"/>
+          <Image iconType="3" name="/login/Images/BBQ/Mutton Boti.png"/>
         </Property>
       </Properties>
     </Component>

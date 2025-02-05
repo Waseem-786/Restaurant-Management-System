@@ -319,13 +319,13 @@ public class VEGETABLES extends javax.swing.JFrame {
         });
         jPanel2.add(TUNDOOR_BUTTON, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 500, 150, 50));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Alo Ghobi.png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Vegetables/Alo Ghobi.png"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Alo Matar Gajar.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Vegetables/Alo Matar Gajar.png"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Alo Palak.png"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Vegetables/Alo Palak.png"))); // NOI18N
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Kari Pakora.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Vegetables/Kari Pakora.png"))); // NOI18N
 
         Alo_Ghobi_Pannel.setBackground(new java.awt.Color(204, 204, 0));
         Alo_Ghobi_Pannel.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -420,7 +420,7 @@ public class VEGETABLES extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(204, 0, 0));
         jLabel2.setText("Rs.");
         jPanel3.add(jLabel2);
-        jLabel2.setBounds(350, 90, 34, 30);
+        jLabel2.setBounds(350, 90, 33, 30);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
@@ -463,7 +463,7 @@ public class VEGETABLES extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(204, 0, 0));
         jLabel4.setText("Rs.");
         jPanel3.add(jLabel4);
-        jLabel4.setBounds(350, 130, 34, 32);
+        jLabel4.setBounds(350, 130, 33, 32);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(204, 0, 0));
@@ -492,7 +492,7 @@ public class VEGETABLES extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(204, 0, 0));
         jLabel6.setText("Rs.");
         jPanel3.add(jLabel6);
-        jLabel6.setBounds(350, 50, 34, 30);
+        jLabel6.setBounds(350, 50, 33, 30);
 
         jButton2.setBackground(new java.awt.Color(153, 255, 153));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N

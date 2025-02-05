@@ -307,25 +307,25 @@ public class CHINESE_DISHES extends javax.swing.JFrame {
         });
         jPanel2.add(TUNDOOR_BUTTON, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 500, 150, 50));
 
-        jLabel13.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Chilli Chicken.png")); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Chilli Chicken.png"))); // NOI18N
 
-        jLabel14.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Chicken And Vegetable Spaghetti.png")); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Chicken And Vegetable Spaghetti.png"))); // NOI18N
 
-        jLabel15.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Dumplings.png")); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Dumplings.png"))); // NOI18N
 
-        jLabel16.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Chicken Shaslick.png")); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Chicken Shaslick.png"))); // NOI18N
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Chow mein.png")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Chow mein.png"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Noddle Soup.png")); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Noddle Soup.png"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Fried Rice.png")); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Fried Rice.png"))); // NOI18N
 
-        jLabel10.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Wonton.png")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Wonton.png"))); // NOI18N
 
-        jLabel11.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Hot and Sour Soup.png")); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Hot and Sour Soup.png"))); // NOI18N
 
-        jLabel12.setIcon(new javax.swing.ImageIcon("E:\\Restaurant-Managememt-System-Java\\Restaurant-Managememt-System\\src\\login\\Images\\Chinese Dishes\\Manchurian.png")); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Chinese Dishes/Manchurian.png"))); // NOI18N
 
         Chow_Mein_Pannel.setBackground(new java.awt.Color(204, 204, 0));
         Chow_Mein_Pannel.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -558,7 +558,7 @@ public class CHINESE_DISHES extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(204, 0, 0));
         jLabel2.setText("Rs.");
         jPanel3.add(jLabel2);
-        jLabel2.setBounds(350, 90, 34, 30);
+        jLabel2.setBounds(350, 90, 33, 30);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 0, 0));
@@ -601,7 +601,7 @@ public class CHINESE_DISHES extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(204, 0, 0));
         jLabel4.setText("Rs.");
         jPanel3.add(jLabel4);
-        jLabel4.setBounds(350, 130, 34, 32);
+        jLabel4.setBounds(350, 130, 33, 32);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(204, 0, 0));
@@ -630,7 +630,7 @@ public class CHINESE_DISHES extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(204, 0, 0));
         jLabel6.setText("Rs.");
         jPanel3.add(jLabel6);
-        jLabel6.setBounds(350, 50, 34, 30);
+        jLabel6.setBounds(350, 50, 33, 30);
 
         jButton2.setBackground(new java.awt.Color(153, 255, 153));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N

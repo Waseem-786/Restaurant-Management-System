@@ -349,28 +349,28 @@
     <Component class="javax.swing.JLabel" name="jLabel7">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Alo Ghobi.png"/>
+          <Image iconType="3" name="/login/Images/Vegetables/Alo Ghobi.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel8">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Alo Matar Gajar.png"/>
+          <Image iconType="3" name="/login/Images/Vegetables/Alo Matar Gajar.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel9">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Alo Palak.png"/>
+          <Image iconType="3" name="/login/Images/Vegetables/Alo Palak.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel10">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/login/Kari Pakora.png"/>
+          <Image iconType="3" name="/login/Images/Vegetables/Kari Pakora.png"/>
         </Property>
       </Properties>
     </Component>

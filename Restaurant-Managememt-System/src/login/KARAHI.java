@@ -335,19 +335,19 @@ public class KARAHI extends javax.swing.JFrame {
         });
         jScrollPane3.setViewportView(jTable1);
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Karahi.png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Chicken Karahi.png"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Mutton Karahi.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Mutton Karahi.png"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chicken Handi.png"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Chicken Handi.png"))); // NOI18N
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Mutton Handi.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Mutton Handi.png"))); // NOI18N
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/White Chicken Karahi.png"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/White Chicken Karahi.png"))); // NOI18N
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Jalfrezi.jpg"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Jalfrezi.jpg"))); // NOI18N
 
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Chargha.png"))); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/Images/Karahi/Chargha.png"))); // NOI18N
 
         Chicken_Karahi_Pannel.setBackground(new java.awt.Color(204, 204, 0));
         Chicken_Karahi_Pannel.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -502,7 +502,7 @@ public class KARAHI extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(204, 0, 0));
         jLabel6.setText("Rs.");
         jPanel5.add(jLabel6);
-        jLabel6.setBounds(350, 90, 34, 30);
+        jLabel6.setBounds(350, 90, 33, 30);
 
         jLabel14.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(204, 0, 0));
@@ -545,7 +545,7 @@ public class KARAHI extends javax.swing.JFrame {
         jLabel16.setForeground(new java.awt.Color(204, 0, 0));
         jLabel16.setText("Rs.");
         jPanel5.add(jLabel16);
-        jLabel16.setBounds(350, 130, 34, 32);
+        jLabel16.setBounds(350, 130, 33, 32);
 
         jLabel17.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel17.setForeground(new java.awt.Color(204, 0, 0));
@@ -574,7 +574,7 @@ public class KARAHI extends javax.swing.JFrame {
         jLabel18.setForeground(new java.awt.Color(204, 0, 0));
         jLabel18.setText("Rs.");
         jPanel5.add(jLabel18);
-        jLabel18.setBounds(350, 50, 34, 30);
+        jLabel18.setBounds(350, 50, 33, 30);
 
         jButton2.setBackground(new java.awt.Color(153, 255, 153));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
